@@ -3,6 +3,7 @@ Welcome to my Static Portfolio Website project! This portfolio showcases my work
 
 
 🚀 Key Features
+
 Homepage: An introductory section that presents who I am and what I do as a web developer.
 Projects Section: A section where placeholders for future projects are displayed.
 Contact Form: A fully functional form with JavaScript validation to ensure only valid submissions.
@@ -11,6 +12,7 @@ Services Section: Highlights my key services as a web developer, including web d
 
 
 🔧 Technologies Used
+
 HTML: For structuring the content of the website.
 CSS: For custom styling and making the website visually appealing.
 JavaScript: For form validation and adding interactivity to the website.
